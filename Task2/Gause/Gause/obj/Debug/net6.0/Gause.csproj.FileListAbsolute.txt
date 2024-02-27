@@ -1,0 +1,15 @@
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.csproj.AssemblyReference.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.AssemblyInfoInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.AssemblyInfo.cs
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.csproj.CoreCompileInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\bin\Debug\net6.0\Gause.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\bin\Debug\net6.0\Gause.deps.json
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\bin\Debug\net6.0\Gause.runtimeconfig.json
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\bin\Debug\net6.0\Gause.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\bin\Debug\net6.0\Gause.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\refint\Gause.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\Gause.genruntimeconfig.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task2\Gause\Gause\obj\Debug\net6.0\ref\Gause.dll

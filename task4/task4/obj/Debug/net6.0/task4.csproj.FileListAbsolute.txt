@@ -1,0 +1,15 @@
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\bin\Debug\net6.0\task4.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\bin\Debug\net6.0\task4.deps.json
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\bin\Debug\net6.0\task4.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\bin\Debug\net6.0\task4.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\refint\task4.dll
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\task4\task4\obj\Debug\net6.0\ref\task4.dll
