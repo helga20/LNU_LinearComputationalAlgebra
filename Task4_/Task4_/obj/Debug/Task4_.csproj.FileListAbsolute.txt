@@ -1,0 +1,11 @@
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\bin\Debug\Task4_.exe.config
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\bin\Debug\Task4_.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\bin\Debug\Task4_.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.csproj.AssemblyReference.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.csproj.SuggestedBindingRedirects.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.Form1.resources
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.Properties.Resources.resources
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.csproj.GenerateResource.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.csproj.CoreCompileInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task4_\Task4_\obj\Debug\Task4_.pdb
