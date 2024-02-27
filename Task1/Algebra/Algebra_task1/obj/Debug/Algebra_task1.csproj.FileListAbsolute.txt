@@ -1,0 +1,12 @@
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\bin\Debug\Algebra_task1.exe.config
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\bin\Debug\Algebra_task1.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\bin\Debug\Algebra_task1.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.csproj.AssemblyReference.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.Form1.resources
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.Properties.Resources.resources
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.csproj.GenerateResource.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.csproj.CoreCompileInputs.cache
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.exe
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.pdb
+C:\Users\lysko\Studying\Лінійна обчислювальна алгебра\Task1\Algebra\Algebra_task1\obj\Debug\Algebra_task1.GenerateForm.resources
